@@ -1,6 +1,6 @@
 # Knapsack
 
-**TODO: Add description**
+A port of https://github.com/alex0112/haversack (hopefully).
 
 ## Installation
 
